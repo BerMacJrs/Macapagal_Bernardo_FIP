@@ -1,5 +1,5 @@
 # Macapagal_Bernardo_FIP :desktop_computer:
-This is the repository of Bernardo Macapagal for the couple's resort final integrated project from term one of the interactive media design program.
+This is the repository of Bernardo Macapagal for the couple's resort final integrated project from term one of the interactive media design program. This repo includes the webpages from the homepage, dining page, and rooms selection page. Thanks for stopping by!
 
 ## Contributing :bookmark:
 1. Fork it!
@@ -23,4 +23,3 @@ Bernardo B. Macapagal, Jr.
 __MIT License__
 
 Year 2023.
-
