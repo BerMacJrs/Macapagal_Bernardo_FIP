@@ -11,13 +11,15 @@
     <title>Welcome to The Couples Resort</title>
 </head>
     <body>
-        <div id="mobile-outline">
         <h1 class="hidden">Welcome to The Couples Resort</h1>
         <!-- Main Nav -->         
             <header class="grid-con" id="main-header">
                 <nav id="main-nav" class="col-span-full">
                     <h2 class="hidden">Main Navigation</h2>
-
+                    <input type="checkbox" id="hamburger">
+                    <label for="hamburger">
+                    <img src="images/burger.svg" alt="hamburger menu icon">
+                    </label>
                     <div id="burger-con">
                         <ul>
                             <li><a href="index.html">Home</a></li>
@@ -212,8 +214,10 @@
                     E-mail: info[at]coupleresort.com </p>         
             </div>
             <div id="contact-hero-form" class="col-span-full">
-                <form action="email.php" method="POST" enctype="text/plain">
-                    <input name="fullName" type="text" placeholder="First & Last Name">
+
+
+                <form action="#" method="post" enctype="text/plain">
+                    <input name="fullName" type="text" required placeholder="First & Last Name">
                     <input name="contactInfo" type="text" required placeholder="Phone number or Email">
                     <textarea name="msg" placeholder="Enter your questions, comments or concerns here..."></textarea>
                     <input name="submit" type="submit" value="Send">
@@ -238,7 +242,7 @@
                     <p id="price-policy">All prices and services on this website and in our reservation system are based on conditions at the time of publishing and are subject to change. Please call to confirm services, availability and pricing. ©2013 Couples Resort Inc. All Rights Reserved. Privacy Policy </p>
                 </div>
         </footer>
-        </div>
+
         <script src="js/main.js"></script>   
     </body>
 </html>
