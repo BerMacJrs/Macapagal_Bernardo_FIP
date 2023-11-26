@@ -1,7 +1,7 @@
 # Macapagal_Bernardo_FIP :desktop_computer:
 This is the repository of Bernardo Macapagal for the couple's resort final integrated project from term one of the interactive media design program. This repo includes the webpages from the homepage, dining page, and rooms selection page. Thanks for stopping by!
 
-![Couple's Resort Readme Photo](/images/readme_photo.jpg)
+![Couple's Resort Readme Photo](/images/readme_photos.jpg)
 
 ## Contributing :bookmark:
 1. Fork it!
