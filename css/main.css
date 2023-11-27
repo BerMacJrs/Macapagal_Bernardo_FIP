@@ -442,3 +442,52 @@ input, textarea {
    line-height: 18px;
    font-size: 11px;
 }
+
+/* Room Introduction */
+
+#hero-room {
+   background: url(../images/hero-main.jpg) no-repeat;
+   height: 200px;
+}
+
+#room-heading-box {
+   align-self: end;
+}
+
+#room-summary p {
+   font-size: 14px;
+   line-height: 22px;
+   margin-bottom: 20px;
+}
+
+#room-inclusions {
+   font-size: 15px;
+   padding-left: 15px;
+   line-height: 30px;;
+   margin-bottom: 15px;
+}
+
+/* Chateau Section */
+
+#hero-chateau {
+   background: url(../images/hero-main.jpg) no-repeat;
+   height: 200px;
+}
+
+#chateau-heading-box {
+   align-self: end;
+}
+
+#chateau-summary p {
+   font-size: 14px;
+   line-height: 22px;
+   margin-bottom: 20px;
+}
+
+#chateau-inclusions {
+   font-size: 15px;
+   padding-left: 15px;
+   line-height: 30px;;
+   margin-bottom: 15px;
+}
+
