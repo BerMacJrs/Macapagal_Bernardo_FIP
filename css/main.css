@@ -545,6 +545,30 @@ input, textarea {
    margin-bottom: 15px;
 }
 
+/* Chalet Section */
+
+#hero-chalet {
+   background: url(../images/chalet_room_412.jpg) no-repeat;
+   height: 200px;
+}
+
+#chalet-heading-box {
+   align-self: end;
+}
+
+#chalet-summary p {
+   font-size: 13.5px;
+   line-height: 25px;
+   margin-bottom: 20px;
+}
+
+#chalet-inclusions {
+   font-size: 15px;
+   padding-left: 15px;
+   line-height: 30px;;
+   margin-bottom: 15px;
+}
+
 /* All Button Styling */
 
 .more-info-button form {
