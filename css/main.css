@@ -443,6 +443,8 @@ input, textarea {
    font-size: 11px;
 }
 
+/* ---Rooms Page--- */
+
 /* Room Introduction */
 
 #hero-room {
@@ -513,6 +515,30 @@ input, textarea {
 }
 
 #villa-inclusions {
+   font-size: 15px;
+   padding-left: 15px;
+   line-height: 30px;;
+   margin-bottom: 15px;
+}
+
+/* Masters Section */
+
+#hero-masters {
+   background: url(../images/master_room_412.jpg) no-repeat;
+   height: 200px;
+}
+
+#masters-heading-box {
+   align-self: end;
+}
+
+#masters-summary p {
+   font-size: 13.5px;
+   line-height: 25px;
+   margin-bottom: 20px;
+}
+
+#masters-inclusions {
    font-size: 15px;
    padding-left: 15px;
    line-height: 30px;;
