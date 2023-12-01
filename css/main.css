@@ -454,9 +454,13 @@ input, textarea {
    align-self: end;
 }
 
+#room-heading-box {
+   align-self: end;
+}
+
 #room-summary p {
    font-size: 14px;
-   line-height: 22px;
+   line-height: 25px;
    margin-bottom: 20px;
 }
 
@@ -480,45 +484,72 @@ input, textarea {
 
 #chateau-summary p {
    font-size: 13.5px;
-   line-height: 22px;
+   line-height: 25px;
    margin-bottom: 20px;
 }
 
 #chateau-inclusions {
    font-size: 15px;
    padding-left: 15px;
-   line-height: 25px;;
+   line-height: 30px;;
+   margin-bottom: 15px;
+}
+
+/* Spa Villa Section */
+
+#hero-villa {
+   background: url(../images/villa_room_412.jpg) no-repeat;
+   height: 200px;
+}
+
+#villa-heading-box {
+   align-self: end;
+}
+
+#villa-summary p {
+   font-size: 13.5px;
+   line-height: 25px;
+   margin-bottom: 20px;
+}
+
+#villa-inclusions {
+   font-size: 15px;
+   padding-left: 15px;
+   line-height: 30px;;
    margin-bottom: 15px;
 }
 
 /* All Button Styling */
 
-#more-info-button form {
+.more-info-button form {
    margin-top: 15px;
 }
 
-#more-info-button input, textarea {
+.more-info-button input, textarea {
    padding: 22px;
    border: 2px solid #d6d6d6;
    background-color: #f7f7f7;
    border-radius: 5px;
-   margin-bottom: 30px;
+   margin-bottom: 50px;
    font-family: 'Sanchez', 'Times New Roman', serif;
+   align-items: center;
    width: auto;
 }
 
-#more-info-button input[type="submit"] {
+.more-info-button input[type="submit"] {
    padding: 12px 28px;
    background: #9a2018;
    color: #fff;
    border: none;
    transition: all 200ms ease-in;
-   width: 150px;
+   width: 140px;
+   height: 45px;
    align-self: flex-end;
 }
 
-#more-info-button input[type="submit"]:hover {
+.more-info-button input[type="submit"]:hover {
    background-color: #626262;
    border-radius: 0;
+   cursor: pointer;
 }
 
