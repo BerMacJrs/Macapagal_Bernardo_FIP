@@ -17,6 +17,7 @@ Updated on the following days:
 - November 22, 2023
 - November 23, 2023
 - November 26, 2023
+- December 01, 2023
 
 ## Credits 	:adult:
 __Officially Published by:__
