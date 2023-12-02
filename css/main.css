@@ -834,14 +834,20 @@ input, textarea {
 }
 
 #chef-summary p {
-   font-size: 13.5px;
-   line-height: 25px;
+   font-size: 11px;
+   line-height: 15px;
    margin-bottom: 20px;
 }
 
-/* #chef-inclusions {
-   font-size: 14.5px;
-   padding-left: 15px;
-   line-height: 30px;;
-   margin-bottom: 15px;
-} */
+#chef-photo, #award-photo {
+   text-align: center;
+}
+
+.chef-sec, .award-sec {
+   display: flex;
+}
+
+#chef-photo p, #award-photo p {
+   padding-bottom: 8px;
+   border-bottom: 3px solid #CF6666;
+}
