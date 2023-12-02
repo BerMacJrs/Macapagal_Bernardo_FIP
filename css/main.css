@@ -668,7 +668,7 @@ input, textarea {
    align-self: end;
 }
 
-#dining-summary p {
+#dining-desc {
    font-size: 14px;
    line-height: 25px;
    margin-bottom: 20px;
@@ -681,11 +681,49 @@ input, textarea {
    margin-bottom: 13px;
 }
 
-#dining-summary section h5 {
+#dining-summary h4 {
+   margin-bottom: 25px;
+}
+
+#dining-summary h5 {
    font-weight: normal;
-   font-size: 12px;
+   font-size: 15px;
+   margin-top: 10px;
+   margin-bottom: 3px;
 }
 
 #dining-summary section p {
    font-size: 10px;
+   line-height: 15px;
+   padding-bottom: 6px;
+}
+
+#dining-summary img {
+   width: 107px;
+   height: 142px;
+}
+
+.menu-options {
+   display: flex;
+}
+
+.menu-options h5, p {
+   margin-left: 5px;
+}
+
+.menu-options section {
+   padding-bottom: 10px;
+   border-bottom: 3px solid #CF6666;
+   margin-bottom: 25px;
+   cursor: pointer;
+}
+
+#menu-options, #breakfast, #lunch {
+   margin-right: 31px;
+}
+
+#dining-summary article {
+   font-size: 13px;
+   line-height: 20px;
+   margin-bottom: 10px;
 }
