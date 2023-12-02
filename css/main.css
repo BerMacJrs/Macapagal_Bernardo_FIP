@@ -730,3 +730,28 @@ input, textarea {
 
 /* Dining Features Section */
 
+#hero-features {
+   background: url(../images/dining_header_412.jpg) no-repeat;
+   height: 200px;
+}
+
+#features-heading-box {
+   align-self: end;
+}
+
+#features-heading-box {
+   align-self: end;
+}
+
+#features-desc {
+   font-size: 14px;
+   line-height: 25px;
+   margin-bottom: 20px;
+}
+
+#features-inclusions {
+   font-size: 14.5px;
+   padding-left: 15px;
+   line-height: 30px;;
+   margin-bottom: 13px;
+}
