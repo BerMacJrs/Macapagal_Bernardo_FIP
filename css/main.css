@@ -696,6 +696,7 @@ input, textarea {
 
 .menu-options {
    display: flex;
+   justify-content: center;
 }
 
 .menu-options h5, .menu-options p {
@@ -710,7 +711,7 @@ input, textarea {
 }
 
 #menu-options, #breakfast, #lunch {
-   margin-right: 31px;
+   margin-right: 25px;
 }
 
 #dining-summary article {
@@ -738,10 +739,13 @@ input, textarea {
 
 #features-first {
    display: flex;
+   justify-content: center;
+   margin-top: 10px;
 }
 
 #features-second {
    display: flex;
+   justify-content: center;
 }
 
 #features-summary h5 {
@@ -755,4 +759,26 @@ input, textarea {
    font-size: 10px;
    line-height: 15px;
    padding-bottom: 6px;
+}
+
+#features-summary div section:first-child {
+   margin-right: 30px;
+}
+
+#features-first section {
+   padding-bottom: 15px;
+   border-bottom: 3px solid #CF6666;
+   margin-bottom: 30px;
+   cursor: pointer;
+}
+
+#features-second section {
+   padding-bottom: 15px;
+   border-bottom: 3px solid #CF6666;
+   margin-bottom: 15px;
+   cursor: pointer;
+}
+
+#features-summary h5, #features-summary p {
+   margin-left: 5px;
 }
