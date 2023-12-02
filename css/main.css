@@ -694,16 +694,11 @@ input, textarea {
    padding-bottom: 6px;
 }
 
-#dining-summary img {
-   width: 107px;
-   height: 142px;
-}
-
 .menu-options {
    display: flex;
 }
 
-.menu-options h5, p {
+.menu-options h5, .menu-options p {
    margin-left: 5px;
 }
 
