@@ -651,3 +651,41 @@ input, textarea {
    cursor: pointer;
 }
 
+/* ---Dining Page--- */
+
+/* Dining Introduction */
+
+#hero-dining {
+   background: url(../images/dining_features_412.jpg) no-repeat;
+   height: 200px;
+}
+
+#dining-heading-box {
+   align-self: end;
+}
+
+#dining-heading-box {
+   align-self: end;
+}
+
+#dining-summary p {
+   font-size: 14px;
+   line-height: 25px;
+   margin-bottom: 20px;
+}
+
+#dining-inclusions {
+   font-size: 14.5px;
+   padding-left: 15px;
+   line-height: 30px;;
+   margin-bottom: 13px;
+}
+
+#dining-summary section h5 {
+   font-weight: normal;
+   font-size: 12px;
+}
+
+#dining-summary section p {
+   font-size: 10px;
+}
