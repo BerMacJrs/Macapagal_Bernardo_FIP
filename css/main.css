@@ -815,3 +815,33 @@ input, textarea {
    font-size: 18px;
    font-weight: normal;
 }
+
+/* Chef Awards Section */
+
+#hero-chef {
+   background: url(../images/exotic_room_412.jpg) no-repeat;
+   height: 200px;
+}
+
+#chef-heading-box {
+   align-self: end;
+}
+
+#chef-summary h5 {
+   font-size: 15px;
+   line-height: 25px;
+   margin-bottom: 20px;
+}
+
+#chef-summary p {
+   font-size: 13.5px;
+   line-height: 25px;
+   margin-bottom: 20px;
+}
+
+/* #chef-inclusions {
+   font-size: 14.5px;
+   padding-left: 15px;
+   line-height: 30px;;
+   margin-bottom: 15px;
+} */
