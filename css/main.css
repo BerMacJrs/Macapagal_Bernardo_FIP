@@ -664,10 +664,6 @@ input, textarea {
    align-self: end;
 }
 
-#dining-heading-box {
-   align-self: end;
-}
-
 #dining-desc {
    font-size: 14px;
    line-height: 25px;
@@ -739,19 +735,29 @@ input, textarea {
    align-self: end;
 }
 
-#features-heading-box {
-   align-self: end;
-}
-
 #features-desc {
    font-size: 14px;
    line-height: 25px;
    margin-bottom: 20px;
 }
 
-#features-inclusions {
-   font-size: 14.5px;
-   padding-left: 15px;
-   line-height: 30px;;
-   margin-bottom: 13px;
+#features-first {
+   display: flex;
+}
+
+#features-second {
+   display: flex;
+}
+
+#features-summary h5 {
+   font-weight: normal;
+   font-size: 15px;
+   margin-top: 10px;
+   margin-bottom: 3px;
+}
+
+#features-summary section p {
+   font-size: 10px;
+   line-height: 15px;
+   padding-bottom: 6px;
 }
