@@ -794,15 +794,24 @@ input, textarea {
    align-self: end;
 }
 
+#menu-summary {
+   margin-bottom: 15px;
+}
+
 #menu-summary p {
    font-size: 13.5px;
-   line-height: 25px;
-   margin-bottom: 20px;
+   line-height: 22px;
+   margin-bottom: 18px;
 }
 
 #menu-inclusions {
    font-size: 14.5px;
    padding-left: 15px;
-   line-height: 30px;;
-   margin-bottom: 15px;
+   list-style-type: none;
+   margin-top: 5px;
+}
+
+#menu-inclusions h5 {
+   font-size: 18px;
+   font-weight: normal;
 }
