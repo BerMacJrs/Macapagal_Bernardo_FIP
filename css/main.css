@@ -411,12 +411,18 @@ input, textarea {
    border-radius: 0;
 }
 
-#newsletter {
-   font-size: 15px;
-}
 
 #checkbox {
    display: flex;
+   margin-bottom: 40px;
+   line-height: 25px;
+   font-size: 18px;
+}
+
+#checkbox input[type="checkbox"] {
+   width: 75px;
+   margin-top: -30px;
+   margin-right: 18px;
 }
 
 /* 8. ---Footer--- */
