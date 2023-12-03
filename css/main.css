@@ -404,12 +404,13 @@ input, textarea {
    transition: all 200ms ease-in;
    width: 150px;
    align-self: flex-end;
+   cursor: pointer;
 }
 
 #contact-hero-form input[type="submit"]:hover {
    background-color: #626262;
    border-radius: 0;
-   animation: fadeIn 0.5s;
+   animation: bounce 2.0s ease-in-out infinite;
 }
 
 
@@ -441,6 +442,11 @@ input, textarea {
    to {opacity: 1;}
 }
 
+@keyframes bounce {
+   0% {transform: translateY(0);}
+   50% {transform: translateY(-10px);}
+   100% {transform: translateY(0);}
+}
 
 /* 8. ---Footer--- */
 
