@@ -870,7 +870,7 @@ input, textarea {
 }
 
 #menu-summary {
-   margin-bottom: 15px;
+   margin-bottom: 13px;
 }
 
 #menu-summary p {
@@ -883,7 +883,7 @@ input, textarea {
    font-size: 14.5px;
    padding-left: 15px;
    list-style-type: none;
-   margin-top: 5px;
+   margin-top: 0px;
 }
 
 #menu-inclusions h3 {
@@ -902,12 +902,8 @@ input, textarea {
    align-self: end;
 }
 
-#chef-summary > * {
-   margin-top: 5px;
-}
-
 #chef-summary {
-   margin-bottom: 15px;
+   margin-bottom: 13px;
 }
 
 #chef-summary section {
