@@ -410,13 +410,13 @@ input, textarea {
 #contact-hero-form input[type="submit"]:hover {
    background-color: #626262;
    border-radius: 0;
-   animation: bounce 2.0s ease-in-out infinite;
+   animation: bounce 1.5s ease infinite;
 }
 
 
 #checkbox {
    display: flex;
-   margin-bottom: 40px;
+   margin-bottom: 35px;
    line-height: 25px;
    font-size: 18px;
 }
@@ -433,7 +433,7 @@ input, textarea {
    font-size: 58px;
    color: #626262;
    position: relative;
-   top: 130px;
+   top: 120px;
    left: 165px;
 }
 
@@ -446,6 +446,10 @@ input, textarea {
    0% {transform: translateY(0);}
    50% {transform: translateY(-10px);}
    100% {transform: translateY(0);}
+}
+
+#contact-form {
+   margin-bottom: 20px;
 }
 
 /* 8. ---Footer--- */
