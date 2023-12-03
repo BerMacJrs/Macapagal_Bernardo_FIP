@@ -421,8 +421,22 @@ input, textarea {
 
 #checkbox input[type="checkbox"] {
    width: 75px;
-   margin-top: -30px;
    margin-right: 18px;
+   margin-top: -5px;
+}
+
+#checkbox input[type="checkbox"]:checked::after {
+   content: "\2713";
+   animation: fadeIn 0.5s;
+   font-size: 30px;
+   position: relative;
+   top: 130px;
+   left: 180px;
+}
+
+@keyframes fadeIn {
+   from {opacity: 0;}
+   to {opacity: 1;}
 }
 
 /* 8. ---Footer--- */
