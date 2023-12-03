@@ -10,6 +10,12 @@ This is the repository of Bernardo Macapagal for the couple's resort final integ
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+## Usage :file_folder:
+Download the zipped code folder or fork the cloned repository to open the full file and view the website output and all associated code. The index.html file can be opened directly or the whole folder can be opened via MS Visual Studio Code.
+
+## Installation :wrench:
+There is no installation required at the moment.
+
 ## History :clock8:
 __Created on November 14, 2023__
 
@@ -18,8 +24,9 @@ Updated on the following days:
 - November 23, 2023
 - November 26, 2023
 - December 01, 2023
+- December 02, 2023
 
-## Credits 	:adult:
+## Credits :smiley:
 __Officially Published by:__
 
 Bernardo B. Macapagal, Jr.
