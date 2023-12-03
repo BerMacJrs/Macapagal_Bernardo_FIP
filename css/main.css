@@ -460,6 +460,10 @@ input, textarea {
    align-self: end;
 }
 
+#room-summary h3 {
+   text-transform: uppercase;
+}
+
 #room-summary p {
    font-size: 14px;
    line-height: 25px;
