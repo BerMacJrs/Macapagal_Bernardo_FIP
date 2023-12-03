@@ -531,6 +531,11 @@ input, textarea {
    margin-bottom: 15px;
 }
 
+#villa-summary h3 {
+   text-transform: uppercase;
+   font-size: 20px;
+}
+
 /* Masters Section */
 
 #hero-masters {
@@ -553,6 +558,11 @@ input, textarea {
    padding-left: 15px;
    line-height: 30px;;
    margin-bottom: 15px;
+}
+
+#masters-summary h3 {
+   text-transform: uppercase;
+   font-size: 20px;
 }
 
 /* Chalet Section */
@@ -579,6 +589,11 @@ input, textarea {
    margin-bottom: 15px;
 }
 
+#chalet-summary h3 {
+   text-transform: uppercase;
+   font-size: 20px;
+}
+
 /* Exotics Section */
 
 #hero-exotics {
@@ -603,6 +618,11 @@ input, textarea {
    margin-bottom: 15px;
 }
 
+#exotics-summary h3 {
+   text-transform: uppercase;
+   font-size: 20px;
+}
+
 /* Juniors Section */
 
 #hero-juniors {
@@ -625,6 +645,11 @@ input, textarea {
    padding-left: 15px;
    line-height: 30px;;
    margin-bottom: 15px;
+}
+
+#juniors-summary h3 {
+   text-transform: uppercase;
+   font-size: 20px;
 }
 
 /* All Button Styling */
