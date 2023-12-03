@@ -411,6 +411,13 @@ input, textarea {
    border-radius: 0;
 }
 
+#newsletter {
+   font-size: 15px;
+}
+
+#checkbox {
+   display: flex;
+}
 
 /* 8. ---Footer--- */
 
