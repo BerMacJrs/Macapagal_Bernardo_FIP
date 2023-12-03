@@ -11,7 +11,7 @@ This is the repository of Bernardo Macapagal for the couple's resort final integ
 5. Submit a pull request :D
 
 ## Usage :file_folder:
-Download the zipped code folder or fork the cloned repository to open the full file and view the website output with all associated code. The index.html file can be opened directly or the whole folder can be opened via MS Visual Studio Code.
+Download the zipped code folder or fork the cloned repository to open the full file and view the website output with all associated code. The index.html file can be opened directly or the whole folder can be opened via VS Code.
 
 ## Installation :wrench:
 There is no installation required at the moment.
