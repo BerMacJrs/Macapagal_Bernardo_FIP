@@ -712,15 +712,18 @@ input, textarea {
    margin-bottom: 13px;
 }
 
-#dining-summary h4 {
+#dining-summary h3 {
    margin-bottom: 25px;
+   font-size: 20px;
+   text-transform: uppercase;
 }
 
-#dining-summary h5 {
+#dining-summary h4 {
    font-weight: normal;
    font-size: 15px;
    margin-top: 10px;
    margin-bottom: 3px;
+   text-transform: uppercase;
 }
 
 #dining-summary section p {
@@ -734,7 +737,7 @@ input, textarea {
    justify-content: center;
 }
 
-.menu-options h5, .menu-options p {
+.menu-options h4, .menu-options p {
    margin-left: 5px;
 }
 
