@@ -346,7 +346,7 @@ input, textarea {
 /* 7. ---Contact--- */
 
 #contact-hero-con {
-   background: url(../images/contact-hero.jpg);
+   background: url(../images/contact-hero.jpg) no-repeat;
    height: 195px;
 }
 
