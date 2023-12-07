@@ -27,6 +27,7 @@ Updated on the following days:
 - December 02, 2023
 - December 03, 2023
 - December 06, 2023
+- December 07, 2023
 
 ## Credits :boy:
 __Officially Published by:__
